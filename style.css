@@ -1,0 +1,22 @@
+* {
+    list-style: none;
+    font-family: 'Montserrat';
+    text-decoration: none;
+}
+header {
+    width: 100uw;
+    background-color: black;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li.header {
+    background-color: black;
+    justify-content: space-between;
+    
+}
+a {
+    color: white;
+}
